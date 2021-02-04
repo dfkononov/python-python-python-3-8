@@ -1,0 +1,17 @@
+name: python-python-python-3-8
+namespace: ""
+cdPipelineName: ""
+cdPipelineStageName: ""
+dnsWildcard: eks-core.aws.main.edp.projects.epam.com
+framework: python-3.8
+
+database:
+  required: false
+
+
+ingress:
+  required: false
+
+image:
+  name: python-python-python-3-8
+  version: latest
