@@ -30,7 +30,7 @@ setup(
         "Click",
         "Flask",
         "Jinja2",
-        "MarkupSafe==1.1.1",
+        "MarkupSafe",
         "Werkzeug",
         "markdown",
         ],
